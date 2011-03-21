@@ -1,0 +1,7 @@
+=UPDATE REPOS
+==Usage:
+Run the file with the command
+  . update_repos.sh
+
+==Contributors:
+Thanks to @joaovitor for the code.
