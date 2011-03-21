@@ -1,10 +1,10 @@
 =Update Repos
 If you have the following directory structure:
-|_ github_projects
- |_ rails
- |_ vimfiles
- |- devise
- |_ (thousands of other opensource projects)
+  |_ github_projects
+    |_ rails
+    |_ vimfiles
+    |- devise
+    |_ (thousands of other opensource projects)
 You can update the repository of all your projects with one command =)
 
 ==Usage
