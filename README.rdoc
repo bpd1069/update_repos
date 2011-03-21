@@ -1,7 +1,6 @@
-=UPDATE REPOS
-==Usage:
+==Usage
 Run the file with the command
   . update_repos.sh
 
-==Contributors:
+==Contributors
 Thanks to @joaovitor for the code.
