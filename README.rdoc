@@ -3,13 +3,17 @@ If you have the following directory structure:
   |_ github_projects
     |_ rails
     |_ vimfiles
-    |- devise
-    |_ (thousands of other opensource projects)
+    |_ devise
+    |_ redmine
+    |_ (and thousands of other opensource projects)
 You can update the repository of all your projects with one command =)
 
 ==Usage
 Run the file with the command
+  git clone git://github.com/lerrua/update_repos.git
+  cd update_repos
+And finally
   . update_repos.sh
 
 ==Contributors
-Thanks to @joaovitor for the code.
+Thanks to @joaovitor for the inital code.
