@@ -1,6 +1,7 @@
 #!/bin/sh
-
+clear
 cd ..;
+
 for i in `find . -maxdepth 2 -name .git`; do
     echo $i;
     echo;
